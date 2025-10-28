@@ -1,0 +1,32 @@
+[
+
+{
+
+  "name": "farverigt legetøj",
+  "price": 400,
+      "description": "Et lille hyggeligt telt ",
+      "image": "https://example.com/legetelt.jpg"
+},
+
+
+
+{
+
+  "name": "klodser",
+  "price": 400,
+      "description": "1 kasse",
+      "image": "https://example.com/legetelt.jpg"
+},
+
+
+
+{
+
+  "name": "gynge",
+  "price": 400,
+      "description": "lavet af plastic",
+      "image": "https://example.com/legetelt.jpg"
+}
+
+
+]
